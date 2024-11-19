@@ -1,0 +1,6 @@
+discord.py==2.3.2
+pandas==2.2.1
+pytz==2023.3.post1
+datetime
+python-dotenv>=1.0.0
+pymongo==4.5.0
